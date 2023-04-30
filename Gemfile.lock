@@ -81,7 +81,9 @@ GEM
     ffi (1.15.5)
     globalid (1.1.0)
       activesupport (>= 5.0)
+
     i18n (1.13.0)
+
       concurrent-ruby (~> 1.0)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
@@ -118,6 +120,7 @@ GEM
     nio4r (2.5.9)
     nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
+
       racc (~> 1.4)
     pry (0.14.2)
       coderay (~> 1.1)
@@ -128,7 +131,9 @@ GEM
     puma (4.3.12)
       nio4r (~> 2.0)
     racc (1.6.2)
+
     rack (2.2.7)
+
     rack-proxy (0.7.6)
       rack
     rack-test (2.1.0)
